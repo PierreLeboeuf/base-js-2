@@ -3,6 +3,7 @@
 // let age=prompt("Quel age avez-vous ?")
 
 // console.log(`Je m'appelle ${prenom} et j'ai ${parseInt(age) + 1}ans l'année prochaine`);
+// console.log(`Je m'appelle ${prenom} et j'ai ${++(age) + 1}ans l'année prochaine`);
 
 // Exercice 2
 
